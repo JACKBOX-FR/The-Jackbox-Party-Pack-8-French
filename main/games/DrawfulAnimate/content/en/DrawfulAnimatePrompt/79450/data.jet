@@ -1,0 +1,24 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "S",
+   "v": "le petit garçon batteur est une fourmi aujourd'hui ",
+   "n": "QuestionAudio"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasJokeAudio"
+  },
+  {
+   "t": "A",
+   "v": "joke",
+   "n": "JokeAudio"
+  }
+ ]
+}

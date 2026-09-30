@@ -1,0 +1,24 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "S",
+   "v": "qui est cette savoureuse petite bête ",
+   "n": "QuestionAudio"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasJokeAudio"
+  },
+  {
+   "t": "A",
+   "v": "joke",
+   "n": "JokeAudio"
+  }
+ ]
+}

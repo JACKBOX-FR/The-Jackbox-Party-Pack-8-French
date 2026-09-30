@@ -1,0 +1,24 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "S",
+   "v": "hmm... on dirait que mon gilet n'est que des araignées ",
+   "n": "QuestionAudio"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasJokeAudio"
+  },
+  {
+   "t": "A",
+   "v": "joke",
+   "n": "JokeAudio"
+  }
+ ]
+}

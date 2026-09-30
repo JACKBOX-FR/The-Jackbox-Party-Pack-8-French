@@ -1,0 +1,24 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "S",
+   "v": "{{PLAYER}} fait des trucs secrets dans le grenier ",
+   "n": "QuestionAudio"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasJokeAudio"
+  },
+  {
+   "t": "A",
+   "v": "joke",
+   "n": "JokeAudio"
+  }
+ ]
+}

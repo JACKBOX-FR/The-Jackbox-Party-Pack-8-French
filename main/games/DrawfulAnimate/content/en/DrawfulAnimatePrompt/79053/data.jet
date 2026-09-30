@@ -1,0 +1,25 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "S",
+   "v": "chien qui fait caca, ses bisous ",
+   "n": "QuestionAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasJokeAudio"
+  },
+  {
+   "t": "A",
+   "v": "joke",
+   "n": "JokeAudio",
+   "s": "And yes, we put that typo in there to annoy you, Alan. You need to loosen up."
+  }
+ ]
+}

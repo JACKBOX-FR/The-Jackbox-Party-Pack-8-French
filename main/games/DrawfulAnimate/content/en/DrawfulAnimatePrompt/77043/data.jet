@@ -1,0 +1,24 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "S",
+   "v": "la machine à voyager dans le temps fonctionne grâce à l'amour ",
+   "n": "QuestionAudio"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasJokeAudio"
+  },
+  {
+   "t": "A",
+   "v": "joke",
+   "n": "JokeAudio"
+  }
+ ]
+}

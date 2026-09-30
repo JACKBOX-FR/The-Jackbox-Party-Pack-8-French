@@ -1,0 +1,25 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "S",
+   "v": "boule de bowling mais elle a peur des quilles ",
+   "n": "QuestionAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasJokeAudio"
+  },
+  {
+   "t": "A",
+   "v": "joke",
+   "n": "JokeAudio",
+   "s": "Yes, it's a typo. Grow up!"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "S",
+   "v": "haute plongée dans une mare de purée de pommes de terre ",
+   "n": "QuestionAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasJokeAudio"
+  },
+  {
+   "t": "A",
+   "v": "joke",
+   "n": "JokeAudio",
+   "s": "Yeah, sometimes there's a typo in the correct answer."
+  }
+ ]
+}

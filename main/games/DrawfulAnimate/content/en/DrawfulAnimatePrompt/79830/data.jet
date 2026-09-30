@@ -1,0 +1,25 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "S",
+   "v": "je veux revenir en arrière ",
+   "n": "QuestionAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasJokeAudio"
+  },
+  {
+   "t": "A",
+   "v": "joke",
+   "n": "JokeAudio",
+   "s": "Yes, it's a typo. Grow up!"
+  }
+ ]
+}

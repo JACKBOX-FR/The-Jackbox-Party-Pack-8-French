@@ -1,0 +1,25 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "S",
+   "v": "Chutes d'eau aux aisselles ",
+   "n": "QuestionAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasJokeAudio"
+  },
+  {
+   "t": "A",
+   "v": "joke",
+   "n": "JokeAudio",
+   "s": "We put typos in the game because we WANT you to get mad. So, thank you."
+  }
+ ]
+}

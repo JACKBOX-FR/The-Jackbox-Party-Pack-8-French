@@ -1,0 +1,45 @@
+{
+    "table":{
+    "en": {
+        "LANGUAGE_NAME": "English",
+        "LANGUAGE": "Language",
+
+        "INTERNET_CONNECTED": "Nous venons de trouver Internet.",
+        "INTERNET_DISCONNECTED": "Nous sommes désolés, nous n'arrivons pas à nous connecter aux serveurs de Jackbox Games.<br />Veuillez vérifier que votre connexion Internet fonctionne correctement.",
+        "ROOM_DESTROYED": "Nous sommes désolés, une erreur réseau s'est produite et votre chambre a été détruite.<br />Veuillez vérifier que votre connexion Internet fonctionne correctement.",
+        
+        "ROOM_EXIT_CAUSE_LOBBY_TIMEOUT": "Nous sommes désolés, une erreur réseau s'est produite et votre chambre a été détruite.<br/>Veuillez vérifier que votre connexion Internet fonctionne correctement. (Cause : 1)",
+        "ROOM_EXIT_CAUSE_JOIN_TIMEOUT": "Nous sommes désolés, une erreur réseau s'est produite et votre chambre a été détruite.<br/>Veuillez vérifier que votre connexion Internet fonctionne correctement. (Cause : 2)",
+        "ROOM_EXIT_CAUSE_GAME_TIMEOUT": "Nous sommes désolés, une erreur réseau s'est produite et votre chambre a été détruite.<br/>Veuillez vérifier que votre connexion Internet fonctionne correctement. (Cause : 3)",
+        "ROOM_EXIT_CAUSE_DISCONNECT": "Nous sommes désolés, une erreur réseau s'est produite et votre chambre a été détruite.<br/>Veuillez vérifier que votre connexion Internet fonctionne correctement. (Cause : 4)",
+        "ROOM_EXIT_CAUSE_BY_REQUEST": "Nous sommes désolés, une erreur réseau s'est produite et votre chambre a été détruite.<br/>Veuillez vérifier que votre connexion Internet fonctionne correctement. (Cause : 5)",
+        "ROOM_EXIT_CAUSE_SHUTTING_DOWN":"Nous sommes désolés, une erreur réseau s'est produite et votre chambre a été détruite.<br/>Veuillez vérifier que votre connexion Internet fonctionne correctement. (Cause : 6)",
+        
+        "SOCKET_DISCONNECTED ": "Nous sommes désolés, nous avons perdu votre connexion aux serveurs de Jackbox Games.",
+        "TIMEOUT": "Nous sommes désolés, nous n'arrivons pas à nous connecter aux serveurs de Jackbox Games.<br />Veuillez vérifier que votre connexion Internet fonctionne correctement.",
+        "TIMEOUT_INTERNET": "Nous sommes désolés, nous n'arrivons pas à nous connecter aux serveurs.<br />Veuillez vérifier que votre connexion Internet fonctionne correctement.",
+        "USER_DISCONNECT": "Nous sommes désolés, le serveur vous a déconnecté. Veuillez réessayer.",
+        "USER_ACCESS_DENIED": "Nous sommes désolés, nous ne pouvons pas continuer.",
+        "START_PRIVILEGE_ERROR": "Nous sommes désolés, nous ne pouvons pas continuer.",
+        "TROPHY_PREPARE_ERROR":"Nous sommes désolés, nous ne pouvons pas continuer.",
+        "SAVE_PREPARE_FAIL": "Nous sommes désolés, nous ne pouvons pas continuer.",
+        "LICENSE_ERROR": "Nous sommes désolés, nous avons perdu la licence pour ce contenu !",
+        "LOST_LICENSE": "Nous sommes désolés, nous avons perdu la licence pour ce contenu !",
+        "STEAM_ERROR": "Nous sommes désolés, nous n'avons pas pu valider votre licence Steam.",
+        "TWITCH_PRIME_ERROR": "Nous sommes désolés, nous n'avons pas pu valider votre licence Twitch.",
+        "LOST_DLC": "Nous sommes désolés, la licence de votre DLC est introuvable. Nous revenons au menu...",
+        "START": "COMMENCER",
+        "SKIP": "SAUTER",
+        "LOADING": "CHARGEMENT...",
+        "SWITCH_USER": "CHANGER D'UTILISATEUR",
+        "LEGAL": "Created & Developed by Jackbox Games, Inc. Game and Software © 2021 Jackbox Games, Inc. All rights reserved. Jackbox Games and the Jackbox Games logo are registered trademarks of Jackbox Games, Inc. Drawful Animate, The Wheel of Enormous Proportions, Job Job, The Poll Mine, Weapons Drawn, and Party Pack are trademarks of Jackbox Games, Inc. All other trademarks and logos are the property of their respective owners.",
+        "LEGAL_CRIWARE": "Powered by \"CRIWARE\". CRIWARE is a trademark of CRI Middleware Co., Ltd.",
+        "LEGAL_FMOD": "This product uses FMOD Sound System by Firelight Technologies",
+        "LEGAL_STADIA": "No endorsement or affiliation is intended between Stadia and the manufacturers of non-Stadia controllers or consoles. STADIA, the Stadia beacon, Google, and related marks and logos are trademarks of Google LLC. All other trademarks are the property of their respective owners."
+    },
+    "fr": {},
+    "it": {},
+    "de": {},
+    "es": {}
+}
+}
