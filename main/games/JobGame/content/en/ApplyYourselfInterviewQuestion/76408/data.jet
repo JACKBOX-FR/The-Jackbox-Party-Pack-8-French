@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "A part la famille ou autre, quelle est votre plus grande joie ? "
+    },
+    {
+      "t": "S",
+      "v": "A part la famille ou autre, quelle est votre plus grande joie ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

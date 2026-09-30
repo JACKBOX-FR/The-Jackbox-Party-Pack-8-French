@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Vous avez été nommé Eco-Capitaine du département. Quel est votre premier décret écologique ? "
+    },
+    {
+      "t": "S",
+      "v": "Vous avez été nommé Eco-Capitaine du département. Quel est votre premier décret écologique ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

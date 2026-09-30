@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Comment se calmer quand on est stressé ? "
+    },
+    {
+      "t": "S",
+      "v": "Comment se calmer quand on est stressé ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

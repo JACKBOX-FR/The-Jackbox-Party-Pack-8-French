@@ -1,0 +1,477 @@
+Quelle est votre plus grande force ? 
+Pouvez-vous me raconter une fois où vous avez échoué ? 
+Où vous voyez-vous dans cinq ans ? 
+Comment aimez-vous être géré ? 
+Quel est le métier de vos rêves ? 
+Qu’est-ce qui vous rend unique ? 
+Qu’est-ce qui vous passionne le plus ? 
+Comment définissez-vous le succès ? 
+Qu’est-ce qui vous donne envie de travailler ici ? 
+Que faisiez-vous pendant cette interruption de votre parcours professionnel ? 
+De quelle réalisation êtes-vous le plus fier ? 
+Quelle est votre approche pour vous entendre avec les autres ? 
+Comment avez-vous entendu parler de ce poste ? 
+Que signifie pour vous « leadership » ? 
+Quelle est la décision la plus difficile que vous ayez dû prendre ? 
+Comment vos collègues vous décriraient-ils ? 
+Si vous êtes embauché, que pouvons-nous attendre de vous au cours de vos 30 premiers jours ? 
+Comment s’est passé le dernier projet que vous avez dirigé ? 
+Quel est le retour le plus important que vous ayez jamais reçu ? 
+Si vous pouviez changer une chose chez vous, quelle serait-elle ? 
+Que recherchez-vous en termes d’avantages sociaux ? 
+Quelle est la chose la plus importante que vous apporteriez à notre culture d’entreprise ? 
+Vous découvrez que votre déjeuner a disparu du réfrigérateur de l'entreprise. Que fais-tu? 
+Quelqu’un a uriné dans le placard à fournitures et vous savez de qui il s’agit. Que fais-tu? 
+Votre manager demande des suggestions pour améliorer le moral de l'entreprise. Que dites-vous? 
+Un collègue vous demande d’acheter des abonnements à des magazines pour la fanfare de son fils. Que fais-tu? 
+Vous remarquez que de l'argent a été volé dans la petite caisse. Comment le gérez-vous ? 
+Le commerce d’à côté dit que nous faisons trop de bruit. Que fais-tu? 
+Votre collègue vous invite à son spectacle d'improvisation. Que fais-tu? 
+Vous êtes à la retraite de paintball de l'entreprise et vous avez votre manager en ligne de mire. Que fais-tu? 
+Votre collègue a fréquemment des conversations bruyantes sur haut-parleur. Que fais-tu? 
+Vous découvrez que votre manager s'attribue le mérite de vos idées. Comment répondez-vous ? 
+Vous êtes chargé d’augmenter la productivité de 50 %. Que fais-tu? 
+Quelqu'un a fait cuire du poisson au micro-ondes dans la cuisine du bureau. Que fais-tu? 
+Vous découvrez que votre collègue bavarde sur vous dans votre dos. Que leur dites-vous ? 
+Le bureau ne parvient pas à se mettre d’accord sur la meilleure température pour le thermostat. Comment résolvez-vous le problème ? 
+Il est 10h00 et nous n’avons plus de café. Que fais-tu? 
+Un gorille s'est échappé du zoo et erre dans le bureau. Que fais-tu? 
+Le bureau est frappé par une distorsion temporelle et tout le monde sauf vous se transforme en bébé dinosaure. Comment répondez-vous ? 
+Le jumeau identique de votre manager continue de se présenter pour faire des farces au bureau. Que fais-tu? 
+L'entreprise organise un spectacle de talents pour récolter des fonds pour une œuvre caritative. Quel est ton talent ? 
+Comment décririez-vous votre personnalité ? 
+Comment se calmer quand on est stressé ? 
+Qu'est-ce qui vous anime ? 
+Qu’est-ce qui vous inspire ? 
+Comment faire une bonne première impression ? 
+De quoi êtes-vous fier ? 
+Quelle est la chose pour laquelle vous auriez aimé avoir plus de temps ?
+Quel passe-temps intéressant aimez-vous ? 
+Comment se détendre après le travail ? 
+Comment décririez-vous votre éthique de travail ? 
+Que signifie pour vous « fidélité » ? 
+Comment gérez-vous les conflits ? 
+Qu’est-ce qui vous motive ? 
+Combien pouvez-vous soulever ? 
+Qu'est-ce qui te fait pleurer ? 
+Qu'est-ce qu'il y a dans ta mallette en ce moment ? 
+Quel est votre espace de travail idéal ? 
+D’où viennent les bonnes idées ? 
+Quel est votre plus profond regret ? 
+Quel est votre plan de sauvegarde professionnel ? 
+Quel a été votre plus gros problème avec votre ancien employeur ? 
+Pourquoi avez-vous abandonné votre ancien métier ? 
+Quelle est la manière la plus efficace de démarrer une réunion ? 
+Qu’est-ce qui vous motive à vous donner à 110 % chaque jour ? 
+Selon vous, quel est le rôle premier d’un manager ? 
+Comment démarrez-vous normalement un argumentaire de vente ? 
+Que dirait de vous le service RH de votre dernier emploi ? 
+Quelle règle espérez-vous trouver dans le manuel de l’employé ? 
+Quel est le secret d’un bon équilibre entre vie professionnelle et vie privée ? 
+Enfant, quelle était la carrière de vos rêves ? 
+Qu'y a-t-il sur votre liste d'objectifs de vie ? 
+Que pensez-vous des romances entre bureaux ? 
+Quelles qualités recherchez-vous dans une équipe ? 
+Comment décririez-vous votre look Casual Friday ? 
+Qu’est-ce qui tue généralement les petites entreprises au cours de leur première année ? 
+Où devons-nous envoyer votre premier chèque de paie ? 
+Quel exercice de consolidation d’équipe aimeriez-vous que nous mettions en œuvre ? 
+Qu’espérez-vous trouver dans la salle de loisirs du bureau ? 
+Avez-vous des résolutions pour la nouvelle année ? 
+Université de {{BLANK}}[[NL]][[NL]]Majeure en {{BLANK}} 
+{{BLANK}}[[NL]]@[[NL]]{{BLANK}}.com 
+A travaillé chez {{BLANK}} Inc.[[NL]][[NL]]Chef {{BLANK}} Directeur 
+Lors de la retraite d'entreprise, tout le monde a partagé un secret vulnérable, et c'est votre tour. Que dites-vous? 
+Maîtrise de {{BLANK}} et {{BLANK}} 
+Temps partiel {{BLANK}}[[NL]][[NL]]Temps plein {{BLANK}} 
+Un collègue garde un animal de compagnie sous son bureau, malgré notre politique « sans animaux ». Que dites-vous? 
+{{BLANK}} du mois[[NL]][[NL]]Le plus susceptible de {{BLANK}} 
+Membre de la {{BLANK}} Société[[NL]][[NL]]Professionnel {{BLANK}}
+Un collègue ne cesse de vous exclure de la commande du déjeuner de groupe. Que leur dites-vous ? 
+Invité {{BLANK}} à la conférence {{BLANK}} 
+Vous avez joué à l'université {{BLANK}} [[NL]][[NL]]Capitaine de "The Fightin' {{BLANK}}" 
+A remporté le concours {{BLANK}}[[NL]][[NL]]Pseudo : "Le {{BLANK}}" 
+Vous soupçonnez que les décorations de fête au bureau enfreignent le code de sécurité incendie. Que fais-tu? 
+Quelles sont vos compétences principales ? 
+Décrivez votre retraite idéale. 
+A part la famille ou autre, quelle est votre plus grande joie ? 
+Quelle est votre faiblesse qui pourrait être considérée comme une force ? 
+Quelle est votre tenue de puissance idéale ? 
+Comment gérez-vous les gens impolis ? 
+Quel est votre déjeuner de travail typique ? 
+Que signifie pour vous « famille » ? 
+Qu'est-ce que vous gardez toujours dans votre portefeuille ? 
+Avez-vous des questions à nous poser ? 
+C'est Opposite Day, et maintenant VOUS ÊTES le patron. Quel est votre premier décret ? 
+Vous avez attrapé l'agrafeuse et vous avez accidentellement effleuré la main d'un collègue. Que faites-vous maintenant? 
+Quelqu'un est déjà dans la salle que vous avez réservée pour la réunion d'équipe. Que fais-tu? 
+Tout le monde rit de quelque chose dans la cuisine. De quoi se moquent-ils ? 
+Garçon, ta cravate a BEAUCOUP de moutarde dessus. Quelle est votre prochaine étape ? 
+Le nouveau stagiaire est bien plus intelligent que vous. Comment vous affirmez-vous ? 
+Il y a un laveur de vitres devant la fenêtre de votre bureau en ce moment. Que fais-tu? 
+C'est le mardi Pizza Day et c'est à votre tour de passer l'appel. Quelle commande plaira à coup sûr à tout le monde ? 
+La carte d'anniversaire de Ted vient d'arriver sur ton bureau. Quel message écrivez-vous à l’intérieur ? 
+Il est temps pour une nouvelle signature électronique. Quelle phrase inspirante se trouve sous votre nom ? 
+Debra a une réserve de collations géniale dans son bureau. Qu'est-ce que tu prends là ? 
+Votre nouveau manager veut savoir exactement ce que vous faites ici. Que dites-vous? 
+Trent laisse à nouveau tomber des spoilers télévisés dans le covoiturage. Comment se venger de Trent ? 
+Comme on pouvait s’y attendre, la retraite de l’entreprise s’est transformée en une situation de [i]Seigneur des mouches[/i]. Quel est votre rôle dans cette nouvelle société sanguinaire ? 
+Comment pouvons-nous améliorer notre initiative de santé et de bien-être ?
+Où aimeriez-vous aller pour la retraite d’entreprise ? 
+Comment géreriez-vous vos employés sans les dénigrer ? 
+Comment savez-vous que vous êtes trop malade pour venir travailler ? 
+Quelle question souhaiteriez-vous poser à notre PDG ? 
+Quelle est la compétence sous-estimée dans la culture d’entreprise actuelle ? 
+Quel est le conseil de sécurité au travail que vous trouvez le plus important ? 
+Nous n'avons pas de garderie, alors que comptez-vous faire avec vos enfants pendant la journée ? 
+Notre bureau est peut-être un peu hanté, savez-vous comment vous débarrasser des fantômes ? 
+Le PDG est en retard. Les investisseurs s’inquiètent. Comment caler ? 
+Vous surprenez un de vos collègues en train de voler des fournitures de bureau. Que fais-tu? 
+Votre responsable vous envoie des SMS après les heures de travail. Que répondez-vous par SMS pour leur faire savoir que vous êtes en congé ? 
+Si votre clone essayait de prendre votre travail, comment pourrions-nous faire la différence entre vous et le maléfique ? 
+Nous aimons considérer notre bureau comme une équipe de braquage. Quel serait votre travail lors d'un braquage de banque ? 
+Notre bureau réalise une salle d'évasion sur le thème des années 80. Quelle est votre première étape pour trouver une issue ? 
+Disons que votre collègue vous accuse d'un crime. Comment échapper aux autorités ? 
+Nous vous prêtons la machine à voyager dans le temps de l'entreprise. Quelle est la première chose que vous faites ? 
+Notre bureau aime participer au poisson d'avril. Quelle est votre farce préférée ? 
+Vous avez bu par erreur un soda dans le réfrigérateur du bureau étiqueté « Ne touchez pas ». Que fais-tu? 
+C'est la soirée karaoké de l'entreprise ! La présence et le chant sont obligatoires. Quel est le nom de ta chanson préférée ? 
+Qu’est-ce qui vous donne envie de vous lever le matin ? 
+Si nous devons vous licencier un jour, comment préféreriez-vous en être informé ? 
+Qu’est-ce qui vous rend anxieux ? 
+Vous avez accidentellement déclenché le système de gicleurs du bureau. Que fais-tu? 
+Votre manager dit que vous seriez un héros si vous pouviez passer une nuit blanche vendredi. Comment répondez-vous ? 
+Vous êtes coincé dans un ascenseur en panne avec un collègue qui vous a volé vos stylos. Que leur dites-vous ? 
+Lors d’une retraite de consolidation d’équipe, vos collègues viennent de vivre un désastreux incident de « perte de confiance ». C'est à ton tour de tomber. Que fais-tu? 
+Bizarre hypothèse... Que diriez-vous aux autorités fédérales s'ils commençaient à enquêter sur nos pratiques commerciales ? 
+Un slasher de cinéma s'introduit dans notre bureau ! Comment survivre ? 
+Lorsque le PDG prendra sa retraite, quel cadeau apporteriez-vous à la fête ? 
+Il y a eu un meurtre dans la salle de repos ! Comment résoudre le mystère !? 
+Quelle est la cause caritative qui vous tient à cœur ? 
+Où en êtes-vous spirituellement/émotionnellement dans la vie ? 
+Comment renverser la situation lorsque vous avez envie d’abandonner ? 
+Quelle est la seule chose plus excitante que la réussite professionnelle ? 
+Quelle est la différence entre un joueur d'équipe et un loup solitaire ? 
+Qu’aimez-vous écouter pendant que vous travaillez ?
+Comment mettriez-vous fin à une réunion qui dure depuis trop longtemps ? 
+Supposons que ce soit votre dernier jour au bureau. Quels sont vos mots d’adieu lors de la réunion de l’entreprise ? 
+Parle couramment {{BLANK}}[[NL]][[NL]]A étudié à l'Académie de {{BLANK}} 
+Diplôme honorifique en {{BLANK}}[[NL]][[NL]]Résidence à l'Institut {{BLANK}} 
+Certifié {{BLANK}} [[NL]][[NL]]Avec un accent sur {{BLANK}} 
+A fondé la Fondation {{BLANK}} pour {{BLANK}} 
+Stagiaire dans les cabinets d'avocats {{BLANK}} et {{BLANK}} 
+Vérifié sur {{BLANK}}.com[[NL]][[NL]]Devenu viral après {{BLANK}} 
+Veuillez appeler :[[NL]]Professeur {{BLANK}}[[NL]][[NL]]Veuillez NE PAS appeler :[[NL]]{{BLANK}} Johnson 
+A étudié à Le {{BLANK}}[[NL]][[NL]]Inventé "Poulet & {{BLANK}}" 
+Élu maire de {{BLANK}}[[NL]][[NL]]Rappelé en raison de {{BLANK}} 
+A reçu la médaille d'excellence {{BLANK}} en {{BLANK}} 
+123 {{BLANK}} Street[[NL]][[NL]]{{BLANK}} Ville, États-Unis 
+Responsable du "Projet {{BLANK}}"[[NL]][[NL]]Fourni de manière cohérente {{BLANK}} 
+Orienté {{BLANK}}[[NL]][[NL]]Amoureux de {{BLANK}} 
+{{BLANK}} Analyste[[NL]][[NL]]Il a littéralement écrit le livre sur {{BLANK}} 
+Bénévole à [[NL]]"Big {{BLANK}}, Little {{BLANK}}" 
+J'ai appris à {{BLANK}} comment {{BLANK}} 
+Augmentation de {{BLANK}} de 15 %[[NL]][[NL]]Réduction significative de {{BLANK}} 
+Bureau organisé "Concours {{BLANK}}"[[NL]][[NL]]Démarré "{{BLANK}} les vendredis" 
+Discours d'ouverture prononcé :[[NL]]"Comment {{BLANK}} un {{BLANK}}" 
+Il est préférable d'être payé en {{BLANK}}[[NL]][[NL]]Doit être proche de {{BLANK}} 
+Invité fréquent sur le podcast "{{BLANK}} à propos de {{BLANK}}" 
+Nommé "Meilleur {{BLANK}}" par le magazine {{BLANK}} 
+Nous avons quelque chose dans notre sous-sol... Comment tuer un vampire ? 
+Vous êtes le premier à participer à la visioconférence. Comment passez-vous votre temps avant que tout le monde n’arrive ? 
+Notre service marketing souhaite séduire les jeunes consommateurs. Qu’est-ce que les étudiants aiment de nos jours ? 
+Comment licencieriez-vous un collègue ? 
+Que recherchez-vous chez un mentor ? 
+Quel est votre plus grand plaisir coupable ? 
+Comment comptez-vous vous déplacer pour vous rendre au travail ? 
+Quelle est la clé d’un bon réseautage ?
+Quel est le plus gros obstacle que vous ayez surmonté ? 
+En quoi crois-tu ? 
+Trish vous a juste fait un clin d'œil et a dit "On dirait que c'est lundi". Que fais-tu? 
+Il y a quelque chose qui bipe sans cesse près du bureau de Frank. Comment répondez-vous ? 
+L'entreprise met en place une politique de code vestimentaire plus stricte. Comment répondez-vous ? 
+Trish vient d'insinuer que votre présence sur les réseaux sociaux est "un peu épicée". Comment répondez-vous ? 
+L'équipe de softball de l'entreprise a besoin de quelque chose pour augmenter ses chances de remporter le championnat. Que proposez-vous ? 
+Vous remarquez que Frank s'est de nouveau endormi à son bureau. Que fais-tu pour le réveiller ? 
+Tout le monde au travail pense que vos idées sont terribles. Comment répondez-vous ? 
+Un brainstorming créatif devient incontrôlable. Comment ramener tout le monde à la réalité ? 
+L'entreprise recherche une nouvelle mascotte. Que proposez-vous ? 
+Quel est l’objectif quotidien que vous vous fixez ? 
+Quelle est la meilleure façon d’effectuer plusieurs tâches à la fois ? 
+Votre responsable souhaite que vous rédigiez ses rapports à sa place. Comment répondez-vous ? 
+Tout le monde est parti déjeuner avant que vous soyez prêt à partir. Que fais-tu? 
+Ted a été promu manager même si vous étiez le prochain sur la liste. Comment répondez-vous ? 
+Trente robots à taille humaine qui vous ressemblent, vous et vos collègues, sont livrés au bureau. Comment répondez-vous ? 
+Debra continue de faire toute une histoire à propos de son anniversaire de travail. Que fais-tu? 
+Vous en avez accidentellement laissé un se déchirer dans un espace de bureau ouvert. Quelle est la meilleure chose à dire après un pet ? 
+Trent fait le tour pour voir si quelqu'un veut « traîner » après le travail. Que faites-vous pour l'éviter ? 
+Debra veut que vous arrosiez ses précieuses plantes succulentes pendant qu'elle est à la plage. Comment répondez-vous ? 
+D'une manière ou d'une autre, votre idée de "bal de travail" est approuvée. Quel est le meilleur thème pour l’événement ? 
+Vous avez besoin d'un rapport de Barb, mais elle refuse de vous le remettre. Comment obtenir le rapport ? 
+Le bureau essaie de « passer au vert ». Comment essaieriez-vous personnellement de sauver la planète au travail ? 
+Il semble qu’un petit incendie se soit déclaré, que devons-nous faire ? 
+Comment allez-vous présenter le sous-marin de Trent à la fête de l'entreprise ? 
+La poubelle est pleine et tout le monde l’ignore. Que fais-tu? 
+Qu'avez-vous tweeté qui vous a amené à appeler les RH ? 
+Notre bureau dispose d'une aire de jeux ; comment allez-vous passer vos 30 minutes de récréation ? 
+Quelqu'un a battu votre score sur le flipper de l'entreprise. Que fais-tu? 
+Comment convaincre tout le monde que vous êtes la personne la plus forte du bureau ? 
+Chase, le clown du bureau, vous a trompé en vous asseyant sur un coussin péteur. Tout le monde vous regarde. Comment répondez-vous ? 
+Un oiseau a construit un nid devant votre fenêtre. Comment réagissez-vous professionnellement ? 
+La société a mis en place un pare-feu strict sur certains sites Web. Comment contourneriez-vous ce problème ? 
+Votre manager a été remplacé par un extraterrestre qui est étonnamment un bon patron. Comment répondez-vous ? 
+Ah, des bâtons de violon. Votre stylo n'a plus d'encre. Que fais-tu? 
+Vous avez terminé votre travail et il n'est que 16h30. Comment tuer le temps ? 
+Notre bureau se nourrit de commentaires positifs. Quelle est la critique la plus gentille que vous ayez jamais reçue ? 
+Chase, le clown du bureau, a volé tous les TP des étals. Que fais-tu quand tu dois... tu sais ? 
+Quelle est la meilleure façon de s'évader avec une « sieste de réunion » classique ?
+Personne ne danse à la fête de Noël. Comment démarrer la fête ? 
+Vous avez été sélectionné pour partir pour votre premier voyage d'affaires international. Comment vous préparez-vous ? 
+Nous travaillons parfois tard. La pleine lune a-t-elle sur vous des effets étranges dont nous devrions être conscients ? 
+Il n'y a pas assez de ragots savoureux dans ce bureau. Quelle rumeur lanceriez-vous ? 
+Chase, le clown du bureau, a lâché une oie dans le bâtiment. Que faire si l'oiseau vous coince ? 
+Tyler dit qu'il est la personne la plus flexible du bureau. Comment pouvez-vous ruiner toute son affaire ? 
+Si votre mère postulait pour travailler ici, dans quel département serait-elle bonne ? 
+Pouvez-vous garder un secret ? Nous avons beaucoup d’informations protégées. Que faudrait-il pour que vous vous déversiez les tripes ? 
+Comment attireriez-vous l’attention lors du rapport budgétaire trimestriel ? 
+Votre manager vient dîner. Comment se mettre de leur bon côté ? 
+Comment convaincre vos collègues de venir à votre spectacle de théâtre communautaire ? 
+Vous devrez passer la sécurité tous les jours. Que trouverons-nous sur votre radiographie du corps entier ? 
+Nous apprécions ici les tasses fantaisie. Que dit le vôtre ? 
+Le patron s'ennuie... Quelle est la anecdote la plus intéressante que vous connaissez ? 
+Larry vend des bonbons pour la fanfare de leurs enfants. Comment répondez-vous ? 
+Lorsque nous prenons des photos au bureau, que feriez-vous si nous vous demandions d'en faire une idiote ? 
+Disons que Mark vient de prendre votre place de parking, comment réagissez-vous ? 
+Pendant les vacances, nous aimons faire de la charité. Que seriez-vous prêt à donner ? 
+Quelles caractéristiques espériez-vous voir dans les toilettes exécutives ? 
+S'ils filmaient notre bureau pour une sitcom, à quels détours farfelus pourrions-nous nous attendre de la part de votre personnage ? 
+C'est la journée des professionnels de l'administration. Qu'est-ce qu'on pourrait faire de gentil pour Rhonda ? 
+On ne vous accuse de rien... mais que faisiez-vous jeudi dernier à 19 heures ? 
+C'est à votre tour de changer le toner du copieur, ce que vous n'avez jamais fait. Quelle est votre approche ? 
+On dirait qu'il y a une compétition amicale autour de collations de bureau faites maison ! Qu'apportez-vous ? 
+Tout le monde se dispute encore à propos de la sale salle de repos. Comment dissiper les tensions ? 
+Vous rejoignez l'appel vidéo tardivement, au moment même où le PDG vous demande : « Quelque chose que vous souhaiteriez ajouter ? » Que dites-vous? 
+Vous rencontrez votre manager dans un cadre non professionnel ! Qu'est-ce qu'une salutation appropriée ? 
+Nous organisons un événement chic, le PDG vous demande un relooking. Que fais-tu? 
+Théoriquement... nous avons des licenciements massifs. Nous ne pouvons sauver qu'une seule personne de votre équipe. Que diriez-vous pour garder votre emploi ? 
+Que mettez-vous sur votre bureau pour montrer à tout le monde que vous êtes « amusant » ? 
+Le PDG est en visite et souhaite votre opinion honnête sur votre manager. Que dites-vous? 
+Candice a fait un excellent travail en organisant l'happy hour du bureau. Comment montrez-vous votre appréciation ? 
+Nous savons tous les deux ce qui s'est passé. Voulez-vous vous expliquer ? 
+Vous avez été nommé Eco-Capitaine du département. Quel est votre premier décret écologique ? 
+Quel message d'absence du bureau définiriez-vous pour garantir que personne ne vous contacte pour quelque raison que ce soit ? 
+Hélas! Vous êtes devenu un cafard du jour au lendemain. Comment informer votre employeur de votre métamorphose ? 
+Quel est le titre du lien vidéo que vous avez accidentellement envoyé à l'ensemble de l'entreprise ? 
+Votre manager dit que vous êtes désormais en charge de la formation des cadres. Quel est le titre de votre formation de développement professionnel ? 
+La discussion du club de lecture d’aujourd’hui devient animée. Comment contribuez-vous au discours ? 
+Les serveurs de l'entreprise sont en panne. Comment convaincre vos collègues que vous savez vraiment comment les réparer ? 
+Trent a pris une part du gâteau d'anniversaire de Becca sans rien demander. Quelle est votre prochaine étape ? 
+Vous êtes à un jour de la retraite ! Avec quelle activité peu judicieuse tentez-vous le destin ? 
+Nous nous sommes fait avoir encore une fois par un vendeur qui parle vite. Que devons-nous faire de toutes les bananes et de la super colle que nous avons achetées ? 
+Vous découvrez que quelqu'un a rendu la salle de bain inhospitalière. Comment répondez-vous ? 
+Trent est de nouveau venu travailler sur un hoverboard. Comment faire pour qu'il s'arrête ?
+Un informaticien effrayant a laissé de la vaisselle dans l'évier de la cuisine. Comment l'affronter sans l'énerver ? 
+Chase, le clown du bureau, pleure doucement dans la salle de repos en remplissant des ballons d'eau. Comment répondez-vous ? 
+Un client n'est pas satisfait de son service et devient furieux. Comment répondez-vous ? 
+C'est la journée Amenez votre enfant au travail et le fils de Jerry n'arrêtera pas de vous déranger. Que fais-tu? 
+L'aigle massif qui terrorise le bureau emporte inévitablement notre plus petit collègue. Comment les sauveriez-vous ? 
+Votre soda club zéro calorie préféré est remplacé par une marque générique. Comment pouvez-vous professionnellement vous mettre en colère à ce sujet ? 
+Tous les dongles sont emmêlés. Comment répondez-vous ? 
+Vous découvrez que Trish postule pour un nouvel emploi dans une entreprise concurrente. Comment répondez-vous ? 
+C'est le repas-partage annuel de l'entreprise. Qu'est-ce que tu apportes ? 
+Quelle est votre plus grande peur au travail ? 
+Votre manager vous demande de faire don d'un rein à son neveu malade. Comment répondez-vous ? 
+C'est à toi et Jerry pour la grande promotion. Que faites-vous pour être sûr de l'obtenir ? 
+Tout le monde parle d’une émission télévisée que vous n’avez jamais vue. Vite, dites quelque chose de perspicace sur l’épisode d’hier soir ! 
+Votre partenaire dit qu'il veut travailler ici aussi. Comment répondez-vous ? 
+Une de vos collègues, Candice, est super cool. Comment faire pour qu'elle soit votre amie de travail ? 
+Vous ne trouvez pas la salle de bain le premier jour de travail. Que fais-tu? 
+Frank n'arrêtera pas d'écouter de la musique très forte pendant qu'il travaille. Comment répondez-vous ? 
+Vous avez le temps de vous entraîner rapidement pendant le déjeuner. Quel exercice fais-tu ? 
+Vous voulez que vos collègues sachent que c’est votre anniversaire, mais d’une manière froide et subtile. Que fais-tu? 
+Vous allez dans la salle de repos et découvrez que Jerry est assis à votre endroit préféré. Comment réagissez-vous ? 
+Vous avez accidentellement cliqué sur un e-mail de phishing et voilà que les données de l'entreprise ont été volées ! Que fais-tu? 
+Vous avez accidentellement cassé le micro-ondes commun en arrachant la porte de ses charnières. Que faites-vous maintenant? 
+Vous avez reçu des informations selon lesquelles il y a une salle de bains extrêmement luxueuse dans le bureau du PDG. Le PDG est en vacances. Que fais-tu? 
+Le carreau de plafond au-dessus de votre bureau commence à laisser couler de l'eau directement sur votre tête. Comment réagissez-vous ? 
+Vous envoyez à votre manager un texte coquin destiné à quelqu'un d'autre. Comment corrigez-vous l’erreur ? 
+Le moral de l'entreprise est au plus bas après une mauvaise réunion. Que dites-vous pour remonter le moral de tout le monde ? 
+Vous êtes au barbecue annuel de l'entreprise et Todd brûle toutes les viandes ! Que fais-tu? 
+Il y a une entreprise de friture de poisson, mais nous n'avons plus de poisson ! Comment répondez-vous ? 
+Le directeur de district vient au bureau en provenance de l'entreprise et vous souhaitez faire bonne impression. Comment vous démarquer ? 
+Vous avez recommandé quelqu'un à l'entreprise et il s'avère que c'est un désastre total ! Que fais-tu? 
+Votre superviseur vous donne une évaluation de performance moins que brillante. Comment répondez-vous ? 
+Votre manager décide de diffuser une musique épouvantable sur les haut-parleurs toute la journée. Comment réagissez-vous ? 
+Il y a des beignets sur la table de la cuisine du bureau avec une note qui dit : « Prenez-en juste un ». Que fais-tu? 
+Vous arrivez au travail pour la journée et découvrez un scooter rose métallisé garé sur votre place réservée ! Comment réagissez-vous ? 
+Votre casque a été recouvert de gelée de raisin par le farceur du bureau. Comment répondez-vous ?
+Il fait toujours trop froid ou trop chaud au bureau. Que dites-vous au préposé à l'entretien ? 
+Votre manager vous a donné la voiture de société pour le week-end et vous l'avez entièrement utilisée. Que fais-tu ensuite ? 
+Un collègue a débauché une de vos ventes durement gagnées ! Comment répondez-vous ? 
+C'était à votre tour de diriger le lave-vaisselle de l'entreprise, mais vous êtes déjà absent pour la journée. Que fais-tu? 
+Le vieux distributeur automatique branlant a encore une fois réclamé l’un de vos précieux dollars. Comment réagissez-vous ? 
+Vous vous êtes fait prendre en photo pour votre badge de travail et c'est affreux ! Que fais-tu? 
+Un de vos collègues a été licencié et est profondément bouleversé. Que dites-vous pour les réconforter ? 
+Tu es le dernier au bureau aujourd'hui. Que faites-vous pour que tout le monde rende demain spécial ? 
+Trish vient de se fiancer. Comment cachez-vous votre colère et votre jalousie ? 
+L'entreprise utilise des « logiciels de sécurité » pour espionner les ordinateurs de tout le monde. (C'est pour votre bien !) Comment réagissez-vous ? 
+Il existe une période « d’initiation » obligatoire pour les nouveaux embauchés. Quel surnom péjoratif préférez-vous ? 
+Vous n'avez pas été invité au mariage de Trish. Est-ce que cela veut dire quelque chose ? Comment réagissez-vous ? 
+Le monde va exploser dans deux minutes ! Que fais-tu?!? 
+Carol veut sortir après le travail. Quelle est votre excuse pour renoncer ? 
+À votre avis, pourquoi le pique-nique d’entreprise de l’année dernière a-t-il été un tel désastre ? 
+Vous décidez de faire l'école buissonnière depuis le travail. Que fais-tu à la place ? 
+Il manque la dernière page de votre gros rapport ! Que dites-vous à votre manager ? 
+Trent est aux toilettes depuis une heure. Que murmures-tu sous la porte ? 
+Quelle est votre approche pour vous faire de nouveaux amis au travail ? 
+Qu’est-ce qui vous pousse vraiment à bout ? 
+Comment allez-vous donner une « touche personnelle » à votre bureau ? 
+Quelle leçon retenir de votre dernier emploi ? 
+Quelle est la première règle d’une présentation réussie ? 
+Vous avez 30 secondes. Comment se débarrasser de cette citrouille ? 
+{{BLANK}} Certifié par la société américaine {{BLANK}} 
+Une catastrophe naturelle a frappé et les services d'urgence ne peuvent pas atteindre le bureau. Comment répondez-vous ? 
+Vous vous retrouvez à travailler tard seul avec le gardien bavard. Comment contourner le fait que vous ne connaissez pas son nom ? 
+La fête de vacances au bureau devient un peu bruyante. Que fais-tu? 
+La journée a été longue et stressante et le patron a laissé tout le monde rentrer tôt, sauf vous. Comment réagissez-vous ? 
+Vous arrivez au bureau et il est fermé pour un jour férié. Personne ne vous l'a dit ! Comment réagissez-vous ? 
+La cafetière du bureau est devenue sensible et terrorise le personnel avec du décaféiné brûlant. Que fais-tu? 
+Vous avez renversé vos lasagnes sur la moquette fraîchement installée du bureau. Quelle est votre prochaine étape ? 
+Votre responsable vous offre un ordinateur portable d'entreprise sophistiqué, sans vous rendre compte qu'on vous en a déjà offert un. Que fais-tu? 
+Greg continue de vous copier en achetant les mêmes cravates originales. Comment réagissez-vous ?
+Vous avez bloqué la coûteuse imprimante de bureau, peut-être de façon permanente. Que fais-tu? 
+Vous avez visité le dark web UNE FOIS et maintenant votre ordinateur de travail est infecté par un virus ! Que fais-tu? 
+Vous faites une présentation à l’échelle de l’entreprise, mais vous ne vous êtes pas préparé ! Que fais-tu? 
+Vous vous réveillez malade, mais il ne vous reste plus aucun jour de maladie. Que fais-tu? 
+Un journaliste vous arrête sur le chemin du travail et vous dit que l'entreprise fait l'objet d'une enquête pour fraude. Comment réagissez-vous ? 
+Quelle est la meilleure façon de vous motiver ? 
+Où puisez-vous vos meilleures idées ? 
+Que signifie pour vous la collaboration ? 
+Comment occupez-vous vos congés de maladie payés cette année ? 
+Comment cette entreprise peut-elle cultiver une ambiance jeune ? 
+Les gens ont remarqué que vous parcouriez les réseaux sociaux du nouveau partenaire de votre ex pendant les heures de travail. Comment vous expliquez-vous ? 
+La direction demande que toute la technologie de l'entreprise soit renvoyée au service informatique pour inspection. Que pourrions-nous trouver dans l’historique de votre navigateur ? 
+Vous voyez Frank ramasser quelque chose dans la poubelle et le manger. Comment répondez-vous ? 
+Vous voyez des collègues quitter ensemble la même salle de bain. Comment répondez-vous ? 
+A reçu la médaille de {{BLANK}} pour l'héroïque {{BLANK}} 
+Parle couramment {{BLANK}} [[NL]][[NL]]Et conversation {{BLANK}} 
+{{BLANK}} le matin[[NL]][[NL]]{{BLANK}} la nuit 
+Comment rester motivé au travail ? 
+Comment agir sous pression ? 
+Parlez-moi d’une fois où vous avez fait preuve de qualités de leadership. 
+Parlez-moi un peu de vous. 
+Vous avez Frank pour le bureau Secret Santa. Que lui apportes-tu ? 
+Michel, le fantôme du bureau, hante votre bureau. Comment réagissez-vous ? 
+Vous êtes en charge de concevoir les uniformes pour le match de softball de l'entreprise. Que se passe-t-il avec ce maillot ? 
+Flora n'arrêtera pas de vous montrer des photos de ses petits-enfants. Que lui dis-tu ? 
+La retraite de team building a lieu ce week-end. Comment vas-tu t’en sortir ? 
+La nouvelle recrue a l’air super cool. Que faites-vous pour qu’ils se sentent les bienvenus au bureau ? 
+Vous restez coincé dans l'ascenseur après le travail ! Comment s'échapper ? 
+Debra et ses quatre furets souhaitent faire du covoiturage pour travailler avec vous. Comment répondez-vous ? 
+Tables d'attente au gastropub "{{BLANK}} & {{BLANK}}" 
+Que pensez-vous du fait de faire des heures supplémentaires le week-end ? 
+Un collègue a mentionné avec désinvolture la syndicalisation. Comment répondez-vous ? 
+À quelle occasion avez-vous été en désaccord avec une décision prise au travail ? 
+A joué le rôle de "{{BLANK}}" dans [i]{{BLANK}} la comédie musicale ![/i] 
+Un collègue qui a commencé avant vous vient de vous demander quel était votre salaire. Comment répondez-vous ? 
+Tout le monde sauf vous a été transformé en bambin. Comment faites-vous fonctionner l’entreprise ? 
+Frank a volé ta bonne chaise qui tourne. Encore. Comment répondez-vous ? 
+{{BLANK}} dans les rues[[NL]][[NL]]{{BLANK}} dans les feuilles 
+Vendu le plus de {{BLANK}} pour les {{BLANK}} Scouts 
+Promu {{BLANK}}[[NL]][[NL]]après 3 ans chez {{BLANK}} 
+Pilote agréé {{BLANK}}[[NL]][[NL]]Collectionneur de {{BLANK}} rares 
+Assistant du professeur {{BLANK}}[[NL]][[NL]]À l'École des Beaux-Arts {{BLANK}}
+Votre manager vous laisse partir et vous demande de former votre remplaçant ! Comment réagissez-vous ? 
+Le bureau est actuellement en cours de fumigation, mais vous avez besoin d'un dossier important sur votre bureau. Que fais-tu? 
+Quelqu'un a photocopié ses fesses et a laissé les photos dans votre bureau. Que fais-tu? 
+La PDG vient de vous annoncer qu'elle prend sa retraite et vous passe le flambeau. Comment répondez-vous ? 
+Votre collègue se prépare à une réunion importante. Comment les aider ? 
+Le bureau déménage dans le Wisconsin, mais vous avez une peur paralysante du Midwest. Comment répondez-vous ? 
+Votre tasse personnelle a disparu de la kitchenette du bureau ! Quelle est votre prochaine étape ? 
+Votre meilleur ami de bureau déjeune avec le nouvel employé à votre place ! Comment réagissez-vous ? 
+Le fainéant du bureau demande votre aide sur un projet à rendre demain. Comment réagissez-vous ? 
+Nick, le chasseur de coupons extrême, a volé votre dépliant à 20 % de réduction dans la pizzeria locale. Que fais-tu? 
+Le manuel de l'employé est mis à jour pour inclure une interdiction des cheveux teints et des tatouages. Vous avez les deux. Que fais-tu? 
+Vous découvrez un portail vers un autre royaume dans le placard à fournitures de bureau. Que fais-tu? 
+C'est la journée « Amenez votre chien au travail » et votre voisin de box a amené un loup sauvage ! Comment réagissez-vous ? 
+Vous allez jouer au golf avec le PDG et vous le surprenez accidentellement en train de tricher. Que fais-tu? 
+Directeur {{BLANK}} à l'école {{BLANK}} 
+Atteint Parfait {{BLANK}}[[NL]]Élu meilleur {{BLANK}} 
+{{BLANK}} sauvage entraîné à {{BLANK}} 
+Inventé {{BLANK}}[[NL]]pour arrêter {{BLANK}} 
+{{BLANK}}-Savvy[[NL]]Avec un œil attentif pour {{BLANK}} 
+Diplômé {{BLANK}} Cum Laude[[NL]][[NL]]Master en {{BLANK}}-ologie 
+Frank est absent du bureau depuis un mois et personne ne l'a vu ni entendu parler de lui. Que fais-tu? 
+Un monolithe d'obsidienne qui bourdonne sans cesse est apparu dans la salle de repos. Comment répondez-vous ? 
+Meghan retourne tout le monde contre vous. Comment répondez-vous ? 
+Le Wi-Fi est devenu insupportablement lent. Comment répondez-vous ? 
+A inventé l'expression "Eh bien, {{BLANK}} mon {{BLANK}} !" 
+Nous sommes en mars et le Holiday Tree est toujours en place et détruit le hall. Comment s'en débarrasser ? 
+Nous avons deux RH. Une maman RH et un papa RH. Comment devrions-nous décider lequel aura la garde de vous ? 
+Comment allez-vous passer votre pause contractuelle de 15 minutes ? 
+A entraîné un groupe hétéroclite de {{BLANK}}[[NL]][[NL]]A remporté le championnat {{BLANK}} 
+Vous remarquez un collègue en train de vider son bureau à midi. Que fais-tu? 
+Votre manager vous informe que le PDG est en train d'être éliminé par le conseil d'administration de l'entreprise. Comment réagissez-vous ? 
+Vous avez dormi trop longtemps après une nuit de bowling extrême. Votre patron vous appelle et vous demande pourquoi vous êtes en retard. Que leur dites-vous ? 
+Vous remarquez une faute de frappe embarrassante sur le site Web de l'entreprise. Que fais-tu? 
+La direction a introduit un nouvel uniforme d'entreprise et c'est hideux ! Comment réagissez-vous ? 
+Le PDG vous demande de prononcer le slogan de l'entreprise dans sa nouvelle publicité. Comment répondez-vous ? 
+L'entreprise installe un nouveau réfrigérateur à bière qui sera utilisé le vendredi après-midi. Comment réagissez-vous ? 
+Vous avez enfin déniché le coin bureau tant convoité ! Comment célébrez-vous?
+Tout le bureau est recouvert de sable. Que fais-tu? 
+Trent devient BEAUCOUP trop compétitif lors des soirées quiz au bureau. Que fais-tu? 
+Vous êtes coincé dans un long trajet en ascenseur avec le directeur du district ! Vite, dis quelque chose pour que ce soit moins gênant ! 
+À votre avis, qu’est-ce qui se cache dans notre mystérieux 13ème étage ? 
+Vous revenez tout juste de superbes vacances. Quel souvenir avez-vous ramené à vos collègues ? 
+Vous êtes allé au bureau à vélo et vous avez transpiré, mais il n'y a pas de douche pour vous rafraîchir ! Que fais-tu? 
+Vous arrivez au bureau et il y a un oiseau assis à votre bureau, faisant calmement votre travail. Comment répondez-vous ? 
+L'enfant de votre manager exige de savoir ce qui se passe après votre décès. Que leur dites-vous ? 
+Au quotidien, comment espérez-vous responsabiliser vos collaborateurs ? 
+Selon vous, quelle est votre compétence principale ? 
+Pouvez-vous me raconter un moment où vous avez sorti des sentiers battus ? 
+Lors de vos vidéoconférences quotidiennes, une sombre silhouette fantomatique se tient derrière le client et se rapproche de plus en plus. Comment répondez-vous ? 
+Chaque jour cette semaine, le PDG vous a offert, et à vous seul, une sucette. Comment répondez-vous ? 
+Vous êtes en voyage d'affaires de 72 heures avec votre collègue le plus bavard. Comment restez-vous sain d’esprit ? 
+Tout le monde s’est vu offrir une prime de vacances sauf vous. Comment réagissez-vous à l’erreur ? 
+Une livraison de fûts destinée à un bar du même nom est arrivée à l'entreprise. Comment répondez-vous ? 
+L'entreprise a licencié le personnel d'entretien et mis en place une roue des corvées. Comment répondez-vous ? 
+L'affreux fils du PDG est désormais votre superviseur direct. Comment répondez-vous ? 
+De manière inattendue, tout le monde au bureau s'est laissé pousser une moustache. Comment répondez-vous ? 
+L'immense collection de jouets de bureau de Trent empiète sur votre espace. Comment répondez-vous ? 
+Tout le monde au bureau se retrouve soudain pieds nus. Comment répondez-vous ? 
+Pour favoriser la santé et le bien-être, les chaises de chacun ont été remplacées par des ballons gonflables géants. Comment répondez-vous ? 
+Trent et Frank s'affrontent sur le parking ! Que fais-tu? 
+Le vendredi, tous les crimes sont légaux au bureau. Qu'est-ce que tu vas faire? 
+Si une meute de chiens errants se frayait un chemin dans le bureau, comment établiriez-vous votre domination ? 
+Vous vous perdez dans les bois lors de la retraite de l'entreprise. Quel est votre premier geste ? 
+Vous devez retourner au bureau, mais vous avez oublié vos clés. Comment contourner le système de sécurité ? 
+Nous vous avons recherché sur les réseaux sociaux... Voulez-vous expliquer ce que vous faites sur cette photo ? 
+Dites-moi, pourquoi seriez-vous employé du mois ?
+C'est Halloween ! Quel costume portez-vous au bureau ? 
+Quelqu’un a remplacé toutes les bonnes collations du bureau par des collations saines. Comment réagissez-vous ? 
+Comment décririez-vous votre sens de l’humour ? 
+Comment gérez-vous le rejet ? 
+Selon vous, quel a été le point culminant de votre carrière ? 
+Comment définiriez-vous « intégrité » ? 
+Quelle est la chose la plus excitante concernant l’avenir de notre industrie ? 
+Quel serait selon vous le point le plus bas de votre carrière ? 
+Décrivez comment vous contribuerez à faire passer notre entreprise au niveau supérieur. 
+Donnez-moi une bonne raison pour laquelle je ne devrais PAS vous embaucher. 
+Un des stagiaires vous a appelé Kelly. Tu n'es pas Kelly. Comment répondez-vous ? 
+Vous avez accidentellement été copié sur un e-mail contenant des informations sensibles. Comment répondez-vous ? 
+Nous sommes un bureau cool. Quelle chose géniale devrions-nous trouver pour rendre le travail amusant pour vous ? 
+On vous a reproché d'avoir mangé le déjeuner de quelqu'un dans le réfrigérateur. Comment allez-vous réagir ? 
+Cela fait une heure que vous regardez Flora tenter de recharger son téléphone avec le mauvais câble. Comment finalement intervenir ? 
+Une collègue lors d'une vidéoconférence pense que sa caméra est éteinte et se cure le nez. Comment répondez-vous ? 
+C'est ton anniversaire et tout le monde a oublié. Comment répondez-vous ? 
+Un collègue est visiblement malade. Comment assainir la zone sans les offenser ? 
+Trent porte le short le plus court pour un vendredi décontracté. Comment l’affronter avec tact ? 
+Qu'aimez-vous faire lorsque vous arrivez au bureau plus tôt que tout le monde ? 
+Vous avez menti et dit que vous parliez allemand sur votre CV... et maintenant quelqu'un du bureau allemand est là. Que fais-tu? 
+Certaines personnes du bureau veulent créer une équipe de bowling ! Comment doit s’appeler l’équipe ? 
+Trent n'arrêtera pas de vous interrompre pour vous montrer des vidéos virales de chatons. Comment répondez-vous ? 
+Vous vous plaignez de votre manager lorsque vous levez les yeux et que vous le voyez vous regarder. Comment sauver la face ? 
+Nous distribuons des cadeaux lors du pique-nique de l'entreprise ! Que veux-tu voir dans ton sac à cadeaux ? 
+Debra exige que vous acceptiez sa demande d'amitié sur les réseaux sociaux. Comment réagissez-vous ? 
+Trent aime soulever des poids à son bureau. Comment réagissez-vous ? 
+Le bureau grouille de termites. Comment s’en débarrasser à moindre coût ?

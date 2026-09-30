@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Avez-vous des résolutions pour la nouvelle année ? "
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous des résolutions pour la nouvelle année ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

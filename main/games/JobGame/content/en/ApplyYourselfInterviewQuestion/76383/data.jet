@@ -1,0 +1,36 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Université de {{BLANK}}\n\nMajeure en {{BLANK}} "
+    },
+    {
+      "t": "S",
+      "v": "Université de {{BLANK}}\n\nMajeure en {{BLANK}} ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio",
+      "s": "Education"
+    },
+    {
+      "t": "S",
+      "v": "Education",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

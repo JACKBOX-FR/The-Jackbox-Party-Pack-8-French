@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Vous êtes le premier à participer à la visioconférence. Comment passez-vous votre temps avant que tout le monde n’arrive ? "
+    },
+    {
+      "t": "S",
+      "v": "Vous êtes le premier à participer à la visioconférence. Comment passez-vous votre temps avant que tout le monde n’arrive ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Les gens ont remarqué que vous parcouriez les réseaux sociaux du nouveau partenaire de votre ex pendant les heures de travail. Comment vous expliquez-vous ? "
+    },
+    {
+      "t": "S",
+      "v": "Les gens ont remarqué que vous parcouriez les réseaux sociaux du nouveau partenaire de votre ex pendant les heures de travail. Comment vous expliquez-vous ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

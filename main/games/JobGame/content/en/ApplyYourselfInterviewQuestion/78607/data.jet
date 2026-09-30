@@ -1,0 +1,36 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "{{BLANK}} dans les rues\n\n{{BLANK}} dans les feuilles "
+    },
+    {
+      "t": "S",
+      "v": "{{BLANK}} dans les rues\n\n{{BLANK}} dans les feuilles ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio",
+      "s": "Personal Character"
+    },
+    {
+      "t": "S",
+      "v": "Personal Character",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

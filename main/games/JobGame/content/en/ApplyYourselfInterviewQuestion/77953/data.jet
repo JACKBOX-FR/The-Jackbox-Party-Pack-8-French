@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Vous n'avez pas été invité au mariage de Trish. Est-ce que cela veut dire quelque chose ? Comment réagissez-vous ? "
+    },
+    {
+      "t": "S",
+      "v": "Vous n'avez pas été invité au mariage de Trish. Est-ce que cela veut dire quelque chose ? Comment réagissez-vous ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

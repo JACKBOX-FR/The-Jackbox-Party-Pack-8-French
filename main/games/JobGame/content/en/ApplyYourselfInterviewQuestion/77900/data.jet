@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Vous avez accidentellement cassé le micro-ondes commun en arrachant la porte de ses charnières. Que faites-vous maintenant? "
+    },
+    {
+      "t": "S",
+      "v": "Vous avez accidentellement cassé le micro-ondes commun en arrachant la porte de ses charnières. Que faites-vous maintenant? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

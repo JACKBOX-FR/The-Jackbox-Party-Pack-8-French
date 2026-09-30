@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Le bureau est actuellement en cours de fumigation, mais vous avez besoin d'un dossier important sur votre bureau. Que fais-tu? "
+    },
+    {
+      "t": "S",
+      "v": "Le bureau est actuellement en cours de fumigation, mais vous avez besoin d'un dossier important sur votre bureau. Que fais-tu? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

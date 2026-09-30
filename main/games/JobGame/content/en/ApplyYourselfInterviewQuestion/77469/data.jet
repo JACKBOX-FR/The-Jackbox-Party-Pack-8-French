@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Théoriquement... nous avons des licenciements massifs. Nous ne pouvons sauver qu'une seule personne de votre équipe. Que diriez-vous pour garder votre emploi ? "
+    },
+    {
+      "t": "S",
+      "v": "Théoriquement... nous avons des licenciements massifs. Nous ne pouvons sauver qu'une seule personne de votre équipe. Que diriez-vous pour garder votre emploi ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

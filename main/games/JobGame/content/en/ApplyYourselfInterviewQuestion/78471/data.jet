@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Vous êtes en charge de concevoir les uniformes pour le match de softball de l'entreprise. Que se passe-t-il avec ce maillot ? "
+    },
+    {
+      "t": "S",
+      "v": "Vous êtes en charge de concevoir les uniformes pour le match de softball de l'entreprise. Que se passe-t-il avec ce maillot ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

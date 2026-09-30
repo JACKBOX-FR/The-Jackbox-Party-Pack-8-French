@@ -1,0 +1,36 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Stagiaire dans les cabinets d'avocats {{BLANK}} et {{BLANK}} "
+    },
+    {
+      "t": "S",
+      "v": "Stagiaire dans les cabinets d'avocats {{BLANK}} et {{BLANK}} ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio",
+      "s": "Legal Experience"
+    },
+    {
+      "t": "S",
+      "v": "Legal Experience",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

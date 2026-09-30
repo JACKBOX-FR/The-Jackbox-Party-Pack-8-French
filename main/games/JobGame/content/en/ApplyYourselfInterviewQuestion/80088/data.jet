@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "On vous a reproché d'avoir mangé le déjeuner de quelqu'un dans le réfrigérateur. Comment allez-vous réagir ? "
+    },
+    {
+      "t": "S",
+      "v": "On vous a reproché d'avoir mangé le déjeuner de quelqu'un dans le réfrigérateur. Comment allez-vous réagir ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

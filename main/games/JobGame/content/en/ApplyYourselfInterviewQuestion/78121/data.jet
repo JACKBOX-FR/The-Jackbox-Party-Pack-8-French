@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Vous vous retrouvez à travailler tard seul avec le gardien bavard. Comment contourner le fait que vous ne connaissez pas son nom ? "
+    },
+    {
+      "t": "S",
+      "v": "Vous vous retrouvez à travailler tard seul avec le gardien bavard. Comment contourner le fait que vous ne connaissez pas son nom ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

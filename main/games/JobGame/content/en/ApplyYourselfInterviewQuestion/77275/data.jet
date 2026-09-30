@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "S'ils filmaient notre bureau pour une sitcom, à quels détours farfelus pourrions-nous nous attendre de la part de votre personnage ? "
+    },
+    {
+      "t": "S",
+      "v": "S'ils filmaient notre bureau pour une sitcom, à quels détours farfelus pourrions-nous nous attendre de la part de votre personnage ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

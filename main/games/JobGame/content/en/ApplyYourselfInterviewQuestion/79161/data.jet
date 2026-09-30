@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Vous êtes coincé dans un long trajet en ascenseur avec le directeur du district ! Vite, dis quelque chose pour que ce soit moins gênant ! "
+    },
+    {
+      "t": "S",
+      "v": "Vous êtes coincé dans un long trajet en ascenseur avec le directeur du district ! Vite, dis quelque chose pour que ce soit moins gênant ! ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

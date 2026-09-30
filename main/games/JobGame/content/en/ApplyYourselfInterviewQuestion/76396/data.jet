@@ -1,0 +1,36 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Vous avez joué à l'université {{BLANK}} \n\nCapitaine de \"The Fightin' {{BLANK}}\" "
+    },
+    {
+      "t": "S",
+      "v": "Vous avez joué à l'université {{BLANK}} \n\nCapitaine de \"The Fightin' {{BLANK}}\" ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio",
+      "s": "Sports"
+    },
+    {
+      "t": "S",
+      "v": "Sports",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Pouvez-vous garder un secret ? Nous avons beaucoup d’informations protégées. Que faudrait-il pour que vous vous déversiez les tripes ? "
+    },
+    {
+      "t": "S",
+      "v": "Pouvez-vous garder un secret ? Nous avons beaucoup d’informations protégées. Que faudrait-il pour que vous vous déversiez les tripes ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

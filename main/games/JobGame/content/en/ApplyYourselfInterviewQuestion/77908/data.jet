@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Le directeur de district vient au bureau en provenance de l'entreprise et vous souhaitez faire bonne impression. Comment vous démarquer ? "
+    },
+    {
+      "t": "S",
+      "v": "Le directeur de district vient au bureau en provenance de l'entreprise et vous souhaitez faire bonne impression. Comment vous démarquer ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

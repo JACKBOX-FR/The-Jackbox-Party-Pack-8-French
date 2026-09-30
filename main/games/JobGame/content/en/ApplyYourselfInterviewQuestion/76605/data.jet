@@ -1,0 +1,36 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Il est préférable de payer en {{BLANK}}\n\nDoit être proche de {{BLANK}} "
+    },
+    {
+      "t": "S",
+      "v": "Il est préférable d'être payé en {{BLANK}}\n\nDoit être proche de {{BLANK}} ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio",
+      "s": "Additional Demands"
+    },
+    {
+      "t": "S",
+      "v": "Additional Demands",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

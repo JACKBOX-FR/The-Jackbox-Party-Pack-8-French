@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Le bureau ne parvient pas à se mettre d’accord sur la meilleure température pour le thermostat. Comment résolvez-vous le problème ? "
+    },
+    {
+      "t": "S",
+      "v": "Le bureau ne parvient pas à se mettre d’accord sur la meilleure température pour le thermostat. Comment résolvez-vous le problème ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

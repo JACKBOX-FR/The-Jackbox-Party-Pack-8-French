@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Vous en avez accidentellement laissé un se déchirer dans un espace de bureau ouvert. Quelle est la meilleure chose à dire après un pet ? "
+    },
+    {
+      "t": "S",
+      "v": "Vous en avez accidentellement laissé un se déchirer dans un espace de bureau ouvert. Quelle est la meilleure chose à dire après un pet ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

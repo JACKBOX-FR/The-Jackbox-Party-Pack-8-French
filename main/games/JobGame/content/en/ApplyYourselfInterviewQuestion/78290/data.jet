@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "La direction demande que toute la technologie de l'entreprise soit renvoyée au service informatique pour inspection. Que pourrions-nous trouver dans l’historique de votre navigateur ? "
+    },
+    {
+      "t": "S",
+      "v": "La direction demande que toute la technologie de l'entreprise soit renvoyée au service informatique pour inspection. Que pourrions-nous trouver dans l’historique de votre navigateur ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

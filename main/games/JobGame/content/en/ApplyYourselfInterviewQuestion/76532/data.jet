@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Lors d’une retraite de consolidation d’équipe, vos collègues viennent de vivre un désastreux incident de « perte de confiance ». C'est à ton tour de tomber. Que fais-tu? "
+    },
+    {
+      "t": "S",
+      "v": "Lors d’une retraite de consolidation d’équipe, vos collègues viennent de vivre un désastreux incident de « perte de confiance ». C'est à ton tour de tomber. Que fais-tu? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

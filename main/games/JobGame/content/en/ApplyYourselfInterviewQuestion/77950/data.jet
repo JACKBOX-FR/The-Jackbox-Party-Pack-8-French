@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "L'entreprise utilise des « logiciels de sécurité » pour espionner les ordinateurs de tout le monde. (C'est pour votre bien !) Comment réagissez-vous ? "
+    },
+    {
+      "t": "S",
+      "v": "L'entreprise utilise des « logiciels de sécurité » pour espionner les ordinateurs de tout le monde. (C'est pour votre bien !) Comment réagissez-vous ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

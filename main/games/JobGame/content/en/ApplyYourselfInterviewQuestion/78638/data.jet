@@ -1,0 +1,36 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Assistant du professeur {{BLANK}}\n\nÀ l'École des Beaux-Arts {{BLANK}} "
+    },
+    {
+      "t": "S",
+      "v": "Assistant du professeur {{BLANK}}\n\nÀ l'École des Beaux-Arts {{BLANK}}",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio",
+      "s": "Assistant Teacher"
+    },
+    {
+      "t": "S",
+      "v": "Assistant Teacher",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

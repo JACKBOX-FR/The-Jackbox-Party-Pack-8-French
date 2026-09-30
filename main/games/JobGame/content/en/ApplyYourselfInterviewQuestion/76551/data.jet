@@ -1,0 +1,36 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Certifié {{BLANK}} \n\nAvec un accent sur {{BLANK}} "
+    },
+    {
+      "t": "S",
+      "v": "Certifié {{BLANK}} \n\nAvec un accent sur {{BLANK}} ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio",
+      "s": "Certifications"
+    },
+    {
+      "t": "S",
+      "v": "Certifications",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

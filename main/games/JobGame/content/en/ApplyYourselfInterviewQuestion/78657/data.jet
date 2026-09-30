@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Nick, le chasseur de coupons extrême, a volé votre dépliant à 20 % de réduction dans la pizzeria locale. Que fais-tu? "
+    },
+    {
+      "t": "S",
+      "v": "Nick, le chasseur de coupons extrême, a volé votre dépliant à 20 % de réduction dans la pizzeria locale. Que fais-tu? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Vous avez reçu des informations selon lesquelles il y a une salle de bains extrêmement luxueuse dans le bureau du PDG. Le PDG est en vacances. Que fais-tu? "
+    },
+    {
+      "t": "S",
+      "v": "Vous avez reçu des informations selon lesquelles il y a une salle de bains extrêmement luxueuse dans le bureau du PDG. Le PDG est en vacances. Que fais-tu? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

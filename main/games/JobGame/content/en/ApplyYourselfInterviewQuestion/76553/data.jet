@@ -1,0 +1,36 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "A fondé la Fondation {{BLANK}} pour {{BLANK}} "
+    },
+    {
+      "t": "S",
+      "v": "A fondé la Fondation {{BLANK}} pour {{BLANK}} ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio",
+      "s": "Charity"
+    },
+    {
+      "t": "S",
+      "v": "Charity",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

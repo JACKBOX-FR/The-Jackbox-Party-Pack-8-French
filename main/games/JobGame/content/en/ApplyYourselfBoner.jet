@@ -1,0 +1,220 @@
+{
+ "content": [
+  {
+   "id": "76463",
+   "isValid": "",
+   "phrase": "Je ne peux pas jouer au jeu, c'est bon pour toi :(",
+   "x": false
+  },
+  {
+   "id": "76464",
+   "isValid": "",
+   "phrase": "J'ai gâché le temps de jeu, je suppose",
+   "x": false
+  },
+  {
+   "id": "76465",
+   "isValid": "",
+   "phrase": "J'ai été distrait et maintenant ce n'est plus drôle",
+   "x": false
+  },
+  {
+   "id": "76466",
+   "isValid": "",
+   "phrase": "Taper sur des mots est trop difficile s'il vous plaît !",
+   "x": false
+  },
+  {
+   "id": "76467",
+   "isValid": "",
+   "phrase": "De toute façon, je ne voulais pas de points",
+   "x": false
+  },
+  {
+   "id": "76469",
+   "isValid": "",
+   "phrase": "J'ai dit que je jouerais à un jeu mais j'ai menti",
+   "x": false
+  },
+  {
+   "id": "76470",
+   "isValid": "",
+   "phrase": "Permettez-moi de répondre à cela par une question : comment jouer à un jeu ?",
+   "x": false
+  },
+  {
+   "id": "76471",
+   "isValid": "",
+   "phrase": "J'ai oublié de répondre alors maintenant je fais des petits jigs pour tout le monde",
+   "x": false
+  },
+  {
+   "id": "82997",
+   "isValid": "",
+   "phrase": "Ne choisis pas ça, je ne joue pas",
+   "x": false
+  },
+  {
+   "id": "82999",
+   "isValid": "",
+   "phrase": "Je n'ai rien écrit, mes plus sincères excuses",
+   "x": false
+  },
+  {
+   "id": "83085",
+   "isValid": "",
+   "phrase": "Voici les mots pour ce joueur qui ne joue pas.",
+   "x": false
+  },
+  {
+   "id": "83087",
+   "isValid": "",
+   "phrase": "J'ai perdu ce tour volontairement",
+   "x": false
+  },
+  {
+   "id": "83092",
+   "isValid": "",
+   "phrase": "Je peux être plein d'esprit, mais pas ce tour-ci",
+   "x": false
+  },
+  {
+   "id": "83095",
+   "isValid": "",
+   "phrase": "Oh non ! aucun mot n'a été mis dans le jeu",
+   "x": false
+  },
+  {
+   "id": "83910",
+   "isValid": "",
+   "phrase": "je joue mal ? Oui",
+   "x": false
+  },
+  {
+   "id": "83915",
+   "isValid": "",
+   "phrase": "cliquez sur le bouton - je ne l'ai pas fait",
+   "x": false
+  },
+  {
+   "id": "83918",
+   "isValid": "",
+   "phrase": "j'ai oublié 2 jeux",
+   "x": false
+  },
+  {
+   "id": "83997",
+   "isValid": "",
+   "phrase": "le mauvais joueur n'a rien donné",
+   "x": false
+  },
+  {
+   "id": "84000",
+   "isValid": "",
+   "phrase": "je ne joue plus, je l'ai fait",
+   "x": false
+  },
+  {
+   "id": "84348",
+   "isValid": "",
+   "phrase": "voter pour un autre",
+   "x": false
+  },
+  {
+   "id": "84349",
+   "isValid": "",
+   "phrase": "je ne suis pas les instructions",
+   "x": false
+  },
+  {
+   "id": "84353",
+   "isValid": "",
+   "phrase": "ne vote pas pour moi, j'ai foiré",
+   "x": false
+  },
+  {
+   "id": "84772",
+   "isValid": "",
+   "phrase": "ha ha ha je ne joue pas",
+   "x": false
+  },
+  {
+   "id": "84774",
+   "isValid": "",
+   "phrase": "hé, c'est moi, le jeu. qu'est-il arrivé à ce joueur ?",
+   "x": false
+  },
+  {
+   "id": "84776",
+   "isValid": "",
+   "phrase": "oh je n'ai rien fait",
+   "x": false
+  },
+  {
+   "id": "84777",
+   "isValid": "",
+   "phrase": "laisse le jeu répondre, je suppose",
+   "x": false
+  },
+  {
+   "id": "84778",
+   "isValid": "",
+   "phrase": "tu n'obtiens aucune réponse de ma part",
+   "x": false
+  },
+  {
+   "id": "84874",
+   "isValid": "",
+   "phrase": "mauvais pas de réponse ici",
+   "x": false
+  },
+  {
+   "id": "84876",
+   "isValid": "",
+   "phrase": "je détruit le jeu",
+   "x": false
+  },
+  {
+   "id": "84880",
+   "isValid": "",
+   "phrase": "j'ai manqué de temps",
+   "x": false
+  },
+  {
+   "id": "84884",
+   "isValid": "",
+   "phrase": "je fais une erreur, pas de réponse",
+   "x": false
+  },
+  {
+   "id": "84950",
+   "isValid": "",
+   "phrase": "J'avais un travail et je ne l'ai pas fait",
+   "x": false
+  },
+  {
+   "id": "84952",
+   "isValid": "",
+   "phrase": "Je n'ai pas répondu, mais ce n'est pas grave",
+   "x": false
+  },
+  {
+   "id": "84954",
+   "isValid": "",
+   "phrase": "honte à ce joueur de ne pas avoir répondu",
+   "x": false
+  },
+  {
+   "id": "84956",
+   "isValid": "",
+   "phrase": "je n'ai rien mis dedans et j'ai cassé le jeu",
+   "x": false
+  },
+  {
+   "id": "84958",
+   "isValid": "",
+   "phrase": "je n'ai pas écrit de réponse, évite-moi",
+   "x": false
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Votre manager dit que vous êtes désormais en charge de la formation des cadres. Quel est le titre de votre formation de développement professionnel ? "
+    },
+    {
+      "t": "S",
+      "v": "Votre manager dit que vous êtes désormais en charge de la formation des cadres. Quel est le titre de votre formation de développement professionnel ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

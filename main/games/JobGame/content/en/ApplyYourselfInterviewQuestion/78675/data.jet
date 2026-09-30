@@ -1,0 +1,36 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "{{BLANK}}-Savvy\nAvec un œil attentif pour {{BLANK}} "
+    },
+    {
+      "t": "S",
+      "v": "{{BLANK}}-Savvy\nAvec un œil attentif pour {{BLANK}} ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio",
+      "s": "Artistry"
+    },
+    {
+      "t": "S",
+      "v": "Artistry",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

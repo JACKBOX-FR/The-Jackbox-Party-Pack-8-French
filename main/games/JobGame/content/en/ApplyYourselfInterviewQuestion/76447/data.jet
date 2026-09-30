@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Votre responsable vous envoie des SMS après les heures de travail. Que répondez-vous par SMS pour leur faire savoir que vous êtes en congé ?"
+    },
+    {
+      "t": "S",
+      "v": "Votre responsable vous envoie des SMS après les heures de travail. Que répondez-vous par SMS pour leur faire savoir que vous êtes en congé ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

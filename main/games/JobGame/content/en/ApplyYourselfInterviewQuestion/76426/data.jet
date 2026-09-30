@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "C'est le mardi Pizza Day et c'est à votre tour de passer l'appel. Quelle commande plaira à coup sûr à tout le monde ? "
+    },
+    {
+      "t": "S",
+      "v": "C'est le mardi Pizza Day et c'est à votre tour de passer l'appel. Quelle commande plaira à coup sûr à tout le monde ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

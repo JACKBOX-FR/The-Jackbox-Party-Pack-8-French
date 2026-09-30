@@ -1,0 +1,36 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Invité fréquent sur le podcast \"{{BLANK}} à propos de {{BLANK}}\""
+    },
+    {
+      "t": "S",
+      "v": "Invité fréquent sur le podcast \"{{BLANK}} à propos de {{BLANK}}\" ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio",
+      "s": "Media Training"
+    },
+    {
+      "t": "S",
+      "v": "Media Training",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

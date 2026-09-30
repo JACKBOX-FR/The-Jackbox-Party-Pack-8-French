@@ -1,0 +1,36 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "A remporté le concours {{BLANK}}\n\nPseudo : \"Le {{BLANK}}\" "
+    },
+    {
+      "t": "S",
+      "v": "A remporté le concours {{BLANK}}\n\nPseudo : \"Le {{BLANK}}\" ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio",
+      "s": "Fun Facts"
+    },
+    {
+      "t": "S",
+      "v": "Fun Facts",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "C'était à votre tour de diriger le lave-vaisselle de l'entreprise, mais vous êtes déjà absent pour la journée. Que fais-tu? "
+    },
+    {
+      "t": "S",
+      "v": "C'était à votre tour de diriger le lave-vaisselle de l'entreprise, mais vous êtes déjà absent pour la journée. Que fais-tu? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

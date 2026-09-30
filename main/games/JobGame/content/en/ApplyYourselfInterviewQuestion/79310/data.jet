@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Vous êtes en voyage d'affaires de 72 heures avec votre collègue le plus bavard. Comment restez-vous sain d’esprit ? "
+    },
+    {
+      "t": "S",
+      "v": "Vous êtes en voyage d'affaires de 72 heures avec votre collègue le plus bavard. Comment restez-vous sain d’esprit ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Un journaliste vous arrête sur le chemin du travail et vous dit que l'entreprise fait l'objet d'une enquête pour fraude. Comment réagissez-vous ? "
+    },
+    {
+      "t": "S",
+      "v": "Un journaliste vous arrête sur le chemin du travail et vous dit que l'entreprise fait l'objet d'une enquête pour fraude. Comment réagissez-vous ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

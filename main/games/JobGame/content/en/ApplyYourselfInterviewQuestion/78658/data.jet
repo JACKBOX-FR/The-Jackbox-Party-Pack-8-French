@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Le manuel de l'employé est mis à jour pour inclure une interdiction des cheveux teints et des tatouages. Vous avez les deux. Que fais-tu? "
+    },
+    {
+      "t": "S",
+      "v": "Le manuel de l'employé est mis à jour pour inclure une interdiction des cheveux teints et des tatouages. Vous avez les deux. Que fais-tu? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}

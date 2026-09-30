@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio",
+      "s": "Supposons que ce soit votre dernier jour au bureau. Quels sont vos mots d’adieu lors de la réunion de l’entreprise ? "
+    },
+    {
+      "t": "S",
+      "v": "Supposons que ce soit votre dernier jour au bureau. Quels sont vos mots d’adieu lors de la réunion de l’entreprise ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRound3HeaderAudio"
+    },
+    {
+      "t": "A",
+      "v": "round3Header",
+      "n": "Round3HeaderAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Round3HeaderText"
+    }
+  ]
+}
